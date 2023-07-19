@@ -9,10 +9,15 @@ The following parameters were considered during the analysis:
 Compare sales and orders for the year 2022
 
 Analyze gender-based purchasing patterns in 2022
+
 Evaluate the efficiency of order delivery
+
 Identify the top 5 states contributing to the highest sales in 2022
+
 Analyze age group preferences for different genders in 2022
+
 Determine the channel with the highest sales in 2022
+
 Data Cleaning
 To ensure data accuracy, null and duplicate values were removed from the dataset. The cleaning process mainly focused on relevant columns such as gender and quantity.
 
@@ -26,10 +31,15 @@ Insights
 Based on the analysis, the following key insights were obtained:
 
 The month of March recorded the highest sales in 2022.
+
 Women contributed to approximately 64% of total sales, with the majority being from the adult age group (34.98%).
+
 The top 5 states contributing to the highest sales were Maharashtra (2.99M), Karnataka (2.65M), U.P (2.10M), Telangana (1.7M), and Tamil Nadu (1.68M).
+
 Approximately 92% of the orders were delivered successfully.
+
 Amazon was the primary contributor to sales (35.51%), followed by Myntra and Flipkart.
+
 Conclusions
 Based on the insights gained, the following recommendations can be made:
 

@@ -7,6 +7,7 @@ Analysis Parameters
 The following parameters were considered during the analysis:
 
 Compare sales and orders for the year 2022
+
 Analyze gender-based purchasing patterns in 2022
 Evaluate the efficiency of order delivery
 Identify the top 5 states contributing to the highest sales in 2022

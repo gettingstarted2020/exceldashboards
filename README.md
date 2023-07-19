@@ -44,6 +44,9 @@ Conclusions
 Based on the insights gained, the following recommendations can be made:
 
 Targeting women in the adult age category should be a priority to drive sales in 2023.
+
 Focus marketing efforts on Amazon, the primary driver of sales.
+
 Implement targeted promotional offers in the top states to boost sales in 2023.
+
 Thank you for visiting this repository. Feel free to explore the code and analysis files. If you have any questions or suggestions, please don't hesitate to reach out.

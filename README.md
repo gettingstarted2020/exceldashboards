@@ -4,6 +4,7 @@ Objective
 The main goal of this project was to create an annual sales report for Vrinda Store for the year 2022 and utilize the findings to drive sales for the upcoming year, 2023. The report focused on analyzing various parameters to gain valuable insights and suggest effective strategies for improving sales.
 
 Analysis Parameters
+
 The following parameters were considered during the analysis:
 
 Compare sales and orders for the year 2022
@@ -19,15 +20,19 @@ Analyze age group preferences for different genders in 2022
 Determine the channel with the highest sales in 2022
 
 Data Cleaning
+
 To ensure data accuracy, null and duplicate values were removed from the dataset. The cleaning process mainly focused on relevant columns such as gender and quantity.
 
 Data Processing
+
 To enhance the analysis, the data was processed by grouping ages into three categories (senior, adult, teen) and transforming dates into months.
 
 Data Analysis
+
 Pivot tables and charts were utilized to perform in-depth analysis of the various parameters mentioned above.
 
 Insights
+
 Based on the analysis, the following key insights were obtained:
 
 The month of March recorded the highest sales in 2022.
@@ -41,6 +46,7 @@ Approximately 92% of the orders were delivered successfully.
 Amazon was the primary contributor to sales (35.51%), followed by Myntra and Flipkart.
 
 Conclusions
+
 Based on the insights gained, the following recommendations can be made:
 
 Targeting women in the adult age category should be a priority to drive sales in 2023.
